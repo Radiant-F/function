@@ -9,9 +9,3 @@ for (i = 0; i < listDesa.length; i++) {
     document.write('</li>')
 }
 document.write("</ol>")
-
-// document.write('<ol>')
-// for (i = 0; i < santriPondok.length; i++) {
-//     document.write('<li>', santriPondok[i], '</li>')
-// }
-// document.write('</ol>')
